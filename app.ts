@@ -1,6 +1,6 @@
 //1-dars Creating typescript file
 // console.log("Hello World");
-// console.log("Alisher");
+
 
 //2-dars Data Types
 //Typescriptdagi malumot turlari JSniki bilan bir xil,
@@ -41,8 +41,8 @@ let g: {
   age: 12,
 };
 
-//3-dars
 
+//3-dars
 //Function decloration in typescript
 function mul(x: number, y: number): number {
   return x ** y;
